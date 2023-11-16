@@ -111,7 +111,7 @@ double xsimplex(int m, int n, double **a, double *b, double *c, double *x,
   struct simplex_t s;
   int i, row, col;
   if (!initial(&s, m, n, a, b, c, x, y, var)) {
-    s.var = 0;
+    free(s.var);
     return NAN;
   }
   while ((col = select_nonbasic(&s)) >= 0) {
@@ -123,7 +123,7 @@ double xsimplex(int m, int n, double **a, double *b, double *c, double *x,
       }
     }
     if (row < 0) {
-      s.var = 0;
+      free(s.var);
       return 1; // unbounded
     }
     pivot(&s, row, col);
@@ -139,7 +139,7 @@ double xsimplex(int m, int n, double **a, double *b, double *c, double *x,
         x[s.var[n + i]] = s.b[i];
       }
     }
-    s.var = 0;
+    free(s.var);
   } else {
     for (i = 0; i < n; i = i + 1) {
       x[i] = 0;
