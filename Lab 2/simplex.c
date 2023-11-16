@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int glob;
+
 struct simplex_t {
   int m;      /* Constraints. */
   int n;      /* Decision variables. */
@@ -72,6 +74,7 @@ void pivot(struct simplex_t *s, int row, int col) {
   for (i = 0; i < n; i = i + 1) {
     if (i != col) {
       c[i] = c[i] - c[col] * a[row][i] / a[row][col];
+      glob += 1;
     }
   }
   c[col] = -c[col] / a[row][col];
