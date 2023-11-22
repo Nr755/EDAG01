@@ -278,6 +278,11 @@ int main() {
   double **a;
   double *b;
 
+  int local_array[10];
+
+  for (i = 0; i < 11; i += 1)
+    local_array[i] = i;
+
   c = calloc(n, sizeof(double));
   a = calloc(m, sizeof(double *));
   for (i = 0; i < m; i += 1) {
