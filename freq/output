@@ -1,0 +1,2927 @@
+added addis
+trying to delete addi: not found
+trying to delete mflr: not found
+added std
+trying to delete stdu: not found
+counted std
+trying to delete mr: not found
+added li
+counted li
+counted std
+trying to delete std: deleted
+counted li
+trying to delete bl: not found
+added nop
+counted addis
+added mr
+trying to delete cmpwi: not found
+counted li
+trying to delete ld: not found
+added iselgt
+added stw
+added stb
+trying to delete clrldi: not found
+counted stw
+added lwz
+added addi
+counted stw
+counted stw
+trying to delete li: deleted
+counted mr
+trying to delete bl: not found
+counted nop
+added std
+added li
+counted mr
+added bl
+trying to delete nop: deleted
+counted mr
+counted mr
+added ld
+trying to delete ld: deleted
+counted std
+trying to delete ld: not found
+counted addi
+added ld
+added mtlr
+trying to delete blr: not found
+added nop
+counted nop
+counted addis
+counted addi
+added mflr
+trying to delete std: deleted
+added stdu
+added std
+counted mr
+counted ld
+counted bl
+trying to delete nop: deleted
+counted ld
+trying to delete bl: deleted
+added nop
+counted mr
+added bl
+counted nop
+counted ld
+trying to delete addi: deleted
+counted ld
+counted mtlr
+added blr
+trying to delete addis: deleted
+added addi
+trying to delete lbz: not found
+added andi.
+added bgt
+added extsw
+counted ld
+added rldicr
+trying to delete b: not found
+added addis
+counted ld
+counted lwz
+trying to delete cmplwi: not found
+added beq-
+added lwa
+added xxlxor
+added cmpwi
+added bltlr
+trying to delete ld: deleted
+added mtctr
+counted li
+counted addi
+added b
+counted nop
+counted nop
+counted nop
+trying to delete nop: deleted
+added nop
+counted addi
+added bdzlr
+trying to delete lwzu: not found
+added cmplw
+trying to delete bne: not found
+added ld
+counted rldicr
+added lxsdx
+trying to delete blr: deleted
+counted mflr
+trying to delete std: deleted
+counted stdu
+counted bl
+counted nop
+trying to delete nop: deleted
+added nop
+counted nop
+counted addis
+counted addi
+added lbz
+counted andi.
+counted bgt
+counted extsw
+counted ld
+counted rldicr
+added stxsdx
+added blr
+counted lwa
+trying to delete ld: deleted
+added ld
+counted rldicr
+added stwx
+trying to delete lwa: deleted
+counted lwz
+counted addi
+counted rldicr
+added cmpw
+counted stxsdx
+trying to delete stw: deleted
+added bltlr+
+trying to delete mflr: deleted
+added std
+counted stdu
+counted addis
+counted addis
+counted addis
+counted addi
+counted addi
+counted addi
+counted li
+trying to delete bl: deleted
+counted nop
+trying to delete nop: deleted
+added nop
+counted addis
+counted addi
+added mflr
+counted std
+trying to delete stdu: deleted
+counted std
+counted std
+counted mr
+counted mr
+counted li
+trying to delete li: deleted
+counted std
+counted std
+added li
+trying to delete std: deleted
+added std
+counted std
+counted std
+counted std
+added bl
+trying to delete nop: deleted
+counted addis
+counted mr
+counted cmpwi
+counted li
+counted ld
+trying to delete iselgt: deleted
+counted stb
+trying to delete stw: not found
+added stw
+counted stw
+counted stw
+counted lwz
+counted addi
+counted stw
+counted stw
+counted li
+counted mr
+trying to delete bl: deleted
+added nop
+trying to delete std: deleted
+counted li
+counted mr
+added bl
+trying to delete nop: deleted
+added std
+trying to delete li: deleted
+counted mr
+counted bl
+added nop
+counted mr
+added li
+counted mr
+counted std
+counted bl
+counted nop
+counted mr
+counted li
+trying to delete mr: deleted
+counted std
+counted bl
+counted nop
+added mr
+counted li
+counted mr
+counted std
+counted bl
+counted nop
+counted cmpwi
+counted std
+trying to delete blt: not found
+added clrldi
+counted clrldi
+counted addi
+trying to delete addi: deleted
+counted nop
+trying to delete li: deleted
+counted mr
+counted bl
+counted nop
+trying to delete stdu: not found
+added li
+counted mr
+counted bl
+counted nop
+added addi
+trying to delete stdu: not found
+added cmpldi
+trying to delete bne: not found
+counted cmpwi
+added blt
+counted clrldi
+counted clrldi
+counted addi
+counted addi
+counted nop
+counted li
+counted mr
+trying to delete bl: deleted
+counted nop
+added stdu
+counted li
+counted mr
+added bl
+trying to delete nop: deleted
+counted addi
+counted stdu
+counted cmpldi
+added bne
+counted mr
+trying to delete ld: deleted
+added ld
+counted ld
+counted ld
+counted ld
+counted ld
+trying to delete ld: deleted
+added ld
+trying to delete ld: deleted
+counted addi
+added ld
+counted mtlr
+counted blr
+added nop
+trying to delete nop: deleted
+counted addis
+counted addi
+counted mflr
+trying to delete std: deleted
+counted stdu
+trying to delete std: not found
+counted mr
+added std
+counted std
+counted lbz
+counted andi.
+counted bgt
+counted lwz
+counted cmpwi
+counted ld
+trying to delete blt: deleted
+counted li
+counted li
+added nop
+counted nop
+added ldx
+counted bl
+counted nop
+added lwa
+counted addi
+counted addi
+added cmpd
+counted ld
+added blt
+trying to delete bl: deleted
+counted nop
+counted b
+counted mr
+trying to delete bl: not found
+counted mr
+trying to delete bl: not found
+counted nop
+counted ld
+counted ld
+trying to delete ld: deleted
+counted addi
+added ld
+counted mtlr
+counted blr
+counted nop
+counted addis
+counted addi
+counted mflr
+counted std
+counted stdu
+counted lwz
+counted cmpw
+added ble-
+trying to delete lwz: deleted
+counted cmpw
+counted ble-
+counted lbz
+counted andi.
+counted bgt
+trying to delete extsw: deleted
+counted ld
+added extsw
+counted rldicr
+counted ldx
+counted rldicr
+counted stxsdx
+counted addi
+counted ld
+counted mtlr
+trying to delete blr: deleted
+added xsabsdp
+trying to delete addis: deleted
+counted addi
+counted lxsdx
+added fcmpu
+trying to delete crnor: not found
+counted blt
+counted extsw
+counted ld
+added lwz
+counted rldicr
+trying to delete lwaux: not found
+counted cmpw
+added bge-
+counted extsw
+counted ld
+counted rldicr
+added lwzux
+counted cmpw
+trying to delete bge-: deleted
+counted ld
+counted rldicr
+counted rldicr
+counted rldicr
+counted rldicr
+trying to delete ldx: deleted
+counted stwx
+counted ld
+added ori
+counted lwz
+counted addi
+trying to delete stw: deleted
+counted ld
+counted ori
+counted lwa
+trying to delete ldx: not found
+counted rldicr
+counted stwx
+counted ld
+added ldx
+counted lwa
+trying to delete ldx: deleted
+added stfdux
+counted rldicr
+added stdx
+counted ori
+counted ld
+added lwzx
+counted addi
+trying to delete stwx: deleted
+counted addi
+counted ld
+counted mtlr
+trying to delete blr: not found
+added addis
+counted addis
+counted addis
+counted addi
+counted addi
+counted addi
+counted li
+trying to delete bl: not found
+counted nop
+counted addis
+counted addis
+counted addis
+counted addi
+counted addi
+counted addi
+counted li
+added bl
+trying to delete nop: deleted
+counted addis
+trying to delete addis: deleted
+added addis
+counted addi
+counted addi
+counted addi
+counted li
+counted bl
+added nop
+counted addis
+counted addis
+trying to delete addis: deleted
+counted addi
+trying to delete addi: deleted
+added addi
+counted li
+counted bl
+counted nop
+counted nop
+trying to delete nop: deleted
+counted lbz
+counted andi.
+counted bgt
+trying to delete extsw: deleted
+counted ld
+counted rldicr
+added ldx
+added extsw
+counted rldicr
+trying to delete b: deleted
+counted extsw
+counted ld
+counted xxlxor
+counted rldicr
+added lwax
+counted cmpwi
+counted bltlr
+trying to delete ld: deleted
+counted rldicr
+counted ldx
+counted mtctr
+trying to delete li: deleted
+counted addi
+trying to delete b: not found
+added nop
+counted nop
+counted nop
+trying to delete nop: deleted
+counted addi
+counted bdzlr
+added lwzu
+counted cmplw
+counted bne
+added ld
+counted rldicr
+counted ldx
+counted lxsdx
+added blr
+added nop
+trying to delete nop: deleted
+added nop
+added addis
+counted addi
+counted mflr
+counted std
+counted stdu
+counted std
+trying to delete mr: deleted
+counted std
+counted std
+counted lwz
+trying to delete cmpwi: deleted
+counted ld
+counted blt
+added li
+counted li
+counted nop
+counted ldx
+counted bl
+trying to delete nop: deleted
+counted lwa
+counted addi
+counted addi
+trying to delete cmpd: deleted
+counted ld
+counted blt
+counted bl
+added nop
+added mr
+trying to delete bl: deleted
+counted nop
+counted ld
+counted ld
+counted ld
+counted addi
+counted ld
+counted mtlr
+counted blr
+counted addis
+counted addi
+counted mflr
+trying to delete std: deleted
+counted stdu
+trying to delete std: not found
+added std
+counted mr
+counted addis
+counted std
+counted std
+counted addi
+counted mr
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+added stfd
+trying to delete bl: not found
+counted nop
+counted mr
+counted cmpldi
+counted bne
+counted addis
+trying to delete addis: deleted
+counted mr
+counted addi
+counted addi
+counted li
+added bl
+added addis
+counted addis
+counted addi
+counted ld
+trying to delete addi: deleted
+counted mr
+counted ld
+counted mr
+counted bl
+counted nop
+trying to delete addi: not found
+counted mr
+counted mr
+counted bl
+counted nop
+counted lwz
+trying to delete li: deleted
+added addi
+trying to delete extsw: deleted
+counted mr
+counted bl
+counted nop
+added extsw
+counted mr
+trying to delete li: not found
+counted mr
+counted bl
+counted nop
+counted lwz
+counted mr
+added li
+added add
+counted extsw
+counted mr
+trying to delete bl: deleted
+counted nop
+counted mr
+counted add
+counted li
+counted extsw
+trying to delete bl: not found
+counted nop
+added cmpwi
+counted mr
+counted blt
+counted addis
+trying to delete li: deleted
+counted mr
+trying to delete addi: deleted
+counted mr
+counted mr
+counted mr
+added bl
+counted nop
+trying to delete lwa: deleted
+added addi
+counted addi
+added cmpd
+counted blt
+counted lwz
+trying to delete cmpwi: deleted
+counted blt
+counted addis
+added li
+trying to delete addi: deleted
+counted add
+trying to delete li: deleted
+counted extsw
+counted bl
+counted nop
+counted mr
+counted rldicr
+counted mr
+added cmpwi
+added stdux
+counted blt
+counted mr
+counted mr
+trying to delete bl: deleted
+counted nop
+counted lwz
+counted cmpwi
+counted blt
+added li
+counted li
+counted ld
+counted mr
+counted add
+trying to delete mr: deleted
+added bl
+trying to delete nop: deleted
+added lwa
+added addi
+counted addi
+trying to delete cmpd: deleted
+counted blt
+counted lwz
+counted addi
+counted extsw
+added cmpd
+trying to delete blt: deleted
+counted cmpwi
+added blt
+counted li
+added mr
+counted mr
+trying to delete mr: deleted
+added mr
+trying to delete bl: deleted
+added nop
+counted lwa
+counted addi
+counted addi
+counted cmpd
+counted blt
+counted mr
+added bl
+counted nop
+counted xxlxor
+counted addis
+trying to delete li: deleted
+added li
+counted mr
+counted mr
+trying to delete mr: deleted
+counted ld
+added mr
+counted li
+counted lwa
+added fmr
+trying to delete lwa: deleted
+counted lwz
+counted bl
+counted addis
+added mfvsrd
+added stw
+counted ld
+counted addis
+trying to delete addi: deleted
+counted mr
+counted mr
+added lwa
+counted bl
+counted nop
+counted lwa
+counted cmpwi
+counted blt
+added addi
+trying to delete cmpldi: deleted
+counted clrldi
+added bge
+counted xxlxor
+added cmpldi
+counted bne
+added b
+counted addi
+trying to delete xxlxor: deleted
+counted addi
+counted li
+counted li
+counted li
+added subf
+counted li
+counted li
+counted li
+counted li
+trying to delete rldicl: not found
+counted addi
+counted addi
+counted mtctr
+counted li
+counted nop
+counted nop
+added lfdu
+trying to delete addi: deleted
+counted lfdu
+counted lxsdx
+counted lxsdx
+added xsmuldp
+counted lxsdx
+trying to delete lxsdx: deleted
+added lxsdx
+counted lxsdx
+counted lxsdx
+counted lxsdx
+counted xsmuldp
+trying to delete lxsdx: deleted
+added lxsdx
+counted xsmuldp
+counted lxsdx
+trying to delete lxsdx: deleted
+added lxsdx
+counted lxsdx
+added xsadddp
+counted xsadddp
+counted xsmuldp
+counted xsadddp
+counted xsmuldp
+trying to delete xsadddp: deleted
+counted xsmuldp
+added xsadddp
+counted xsmuldp
+counted xsadddp
+counted xsmuldp
+trying to delete xsadddp: deleted
+added xsadddp
+added bdnz
+counted cmpldi
+trying to delete beq: not found
+counted rldicr
+counted mtctr
+added addi
+counted add
+counted add
+counted nop
+counted nop
+trying to delete nop: deleted
+added nop
+counted nop
+counted nop
+trying to delete nop: deleted
+counted lfdu
+counted lfdu
+counted xsmuldp
+counted xsadddp
+counted bdnz
+counted fmr
+counted mfvsrd
+counted mr
+counted mr
+counted lwa
+counted bl
+added nop
+counted lwz
+trying to delete cmpwi: deleted
+counted blt
+counted addis
+counted addi
+counted li
+counted addi
+counted nop
+counted lfdu
+counted extsw
+counted mr
+trying to delete mr: deleted
+counted lwa
+counted mfvsrd
+counted bl
+counted nop
+counted lwa
+counted addi
+counted cmpd
+counted blt
+added mr
+counted bl
+counted nop
+trying to delete lwz: deleted
+added cmpwi
+trying to delete blt: deleted
+counted addi
+counted li
+added ldu
+counted bl
+counted nop
+counted lwa
+counted addi
+counted cmpd
+added blt
+trying to delete mr: deleted
+counted bl
+trying to delete nop: deleted
+added mr
+counted bl
+added nop
+trying to delete mr: deleted
+counted bl
+trying to delete nop: deleted
+added mr
+counted bl
+added nop
+added lfd
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+trying to delete ld: deleted
+added ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted addi
+counted ld
+counted mtlr
+counted blr
+counted addis
+counted addi
+trying to delete mflr: deleted
+counted std
+counted stdu
+counted addis
+trying to delete std: deleted
+counted mr
+trying to delete addis: deleted
+added std
+counted std
+counted std
+trying to delete mr: deleted
+counted addi
+counted addi
+added mr
+counted std
+counted std
+counted std
+counted std
+counted std
+counted bl
+counted nop
+counted mr
+counted cmpldi
+added beq
+trying to delete addis: not found
+counted li
+counted addi
+counted mr
+trying to delete bl: deleted
+counted nop
+trying to delete cmpldi: deleted
+counted bne
+added addis
+counted addis
+trying to delete addi: deleted
+added addi
+counted li
+added bl
+counted addis
+counted addi
+counted addis
+counted mr
+counted addi
+counted mr
+counted bl
+counted nop
+counted mr
+counted bl
+counted nop
+counted li
+counted li
+counted bl
+counted nop
+counted addis
+trying to delete addis: deleted
+counted addi
+added addis
+counted extsw
+trying to delete mr: deleted
+counted ld
+counted std
+counted addis
+counted addi
+counted addi
+counted addi
+counted li
+trying to delete ld: deleted
+added mr
+counted bl
+counted nop
+counted addis
+counted addis
+counted addi
+counted addi
+counted li
+counted mr
+trying to delete bl: deleted
+counted nop
+counted li
+counted mr
+counted mr
+added bl
+counted nop
+added ld
+trying to delete li: deleted
+counted mr
+counted mr
+counted bl
+trying to delete nop: deleted
+added li
+counted mr
+counted mr
+counted bl
+added nop
+trying to delete bl: deleted
+counted nop
+counted mr
+added lwz
+added cmplwi
+counted beq
+trying to delete mr: deleted
+added bl
+counted nop
+counted li
+added mr
+added sthux
+counted stb
+counted ori
+counted lwa
+counted bl
+counted nop
+counted mr
+counted li
+counted mr
+trying to delete bl: deleted
+counted nop
+counted stw
+counted addis
+trying to delete addis: deleted
+counted mr
+counted ld
+counted addi
+counted ld
+added bl
+trying to delete nop: deleted
+added addis
+counted li
+counted ld
+counted stw
+counted li
+trying to delete bl: deleted
+added nop
+counted nop
+counted nop
+counted nop
+counted addis
+counted addi
+added mflr
+trying to delete std: deleted
+counted stdu
+added std
+counted addis
+counted std
+counted mr
+trying to delete li: deleted
+counted ld
+counted lwz
+added bl
+counted stw
+counted ld
+counted ld
+counted addi
+counted ld
+counted mtlr
+counted blr
+counted nop
+trying to delete addis: deleted
+counted addi
+counted mflr
+counted std
+trying to delete stdu: deleted
+added addis
+counted std
+counted std
+counted std
+counted std
+trying to delete addi: deleted
+counted std
+trying to delete std: deleted
+added std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+counted std
+trying to delete std: deleted
+counted stfd
+trying to delete bl: deleted
+counted nop
+counted addis
+counted mr
+added addi
+counted addi
+trying to delete mr: deleted
+added mr
+added bl
+counted nop
+counted addi
+counted mr
+counted mr
+counted bl
+counted nop
+counted lwz
+trying to delete cmplwi: deleted
+added bne-
+trying to delete lwa: deleted
+added li
+counted mr
+counted bl
+counted nop
+counted mr
+counted li
+counted mr
+counted bl
+counted nop
+trying to delete mr: deleted
+counted li
+trying to delete li: deleted
+counted bl
+counted nop
+added mr
+counted addi
+added li
+trying to delete extsw: deleted
+counted bl
+counted nop
+counted addis
+counted mr
+counted li
+counted mr
+counted addi
+counted mr
+counted mr
+counted mr
+counted bl
+counted nop
+added lwa
+counted addi
+counted addi
+counted cmpd
+counted blt
+trying to delete addi: deleted
+counted mr
+counted mr
+counted mr
+trying to delete bl: deleted
+counted nop
+trying to delete lwz: deleted
+counted cmpwi
+counted blt
+counted addis
+trying to delete li: deleted
+added li
+added xxlxor
+added addi
+counted addi
+counted li
+trying to delete addi: deleted
+added addi
+counted addi
+counted addi
+counted addi
+counted rldicr
+trying to delete rldicr: deleted
+counted nop
+counted nop
+counted nop
+added lwz
+counted li
+counted addi
+counted addi
+trying to delete extsw: not found
+added bl
+counted nop
+added stdu
+counted mr
+counted mr
+trying to delete mr: deleted
+added mr
+counted mr
+counted mr
+counted bl
+counted nop
+trying to delete lxsdx: deleted
+added lxsdx
+counted lxsdx
+counted lxsdx
+added xssubdp
+counted xssubdp
+added xsdivdp
+counted xsmuldp
+counted xssubdp
+counted fcmpu
+counted fcmpu
+added cror
+counted bge
+added xsnegdp
+counted ld
+counted stxsdx
+added std
+counted b
+counted nop
+counted nop
+counted xsnegdp
+counted ld
+trying to delete std: deleted
+counted stxsdx
+trying to delete lwa: deleted
+counted addi
+counted stxsdx
+counted cmpd
+counted blt
+counted mr
+counted bl
+counted nop
+counted addis
+counted lxsdx
+trying to delete li: deleted
+added li
+counted mr
+counted mr
+counted mr
+counted ld
+counted mr
+counted li
+trying to delete lwa: not found
+added lwa
+counted lwz
+counted bl
+counted addis
+counted li
+counted li
+counted stw
+counted stxsdx
+counted addi
+trying to delete bl: deleted
+counted nop
+counted addis
+counted lxsdx
+counted ld
+counted addis
+trying to delete addi: deleted
+counted mfvsrd
+counted lwa
+added bl
+counted nop
+counted lwz
+trying to delete cmpwi: deleted
+counted blt
+counted addis
+added addi
+counted addi
+counted nop
+counted nop
+counted nop
+trying to delete lfdu: deleted
+added extsw
+counted mr
+counted lwa
+counted mfvsrd
+counted bl
+counted nop
+counted lwa
+counted addi
+counted cmpd
+counted blt
+counted lwz
+trying to delete cmpwi: not found
+counted blt
+counted addi
+counted li
+trying to delete nop: deleted
+added nop
+counted nop
+counted nop
+counted ldu
+counted bl
+trying to delete nop: deleted
+counted lwa
+counted addi
+counted cmpd
+counted blt
+counted mr
+trying to delete bl: deleted
+added nop
+trying to delete mr: deleted
+added bl
+counted nop
+added mr
+counted bl
+counted nop
+trying to delete mr: deleted
+counted bl
+counted nop
+counted bl
+counted nop
+counted lfd
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+trying to delete ld: deleted
+added ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+trying to delete addi: deleted
+counted ld
+counted mtlr
+counted blr
+counted addis
+counted addis
+counted addis
+added addi
+counted addi
+counted addi
+counted li
+counted bl
+counted nop
+counted nop
+counted nop
+counted addis
+counted addi
+added mfcr
+trying to delete mflr: deleted
+added std
+trying to delete stw: deleted
+counted stdu
+counted std
+counted li
+trying to delete stfd: deleted
+counted fmr
+counted std
+counted li
+counted std
+counted std
+trying to delete li: deleted
+added li
+trying to delete li: deleted
+added stxvd2x
+added mr
+counted addis
+counted std
+added li
+trying to delete std: deleted
+counted ld
+added std
+counted std
+trying to delete li: deleted
+added li
+trying to delete mr: deleted
+counted std
+counted std
+added mr
+trying to delete mr: deleted
+counted lwz
+counted std
+counted std
+counted addi
+counted std
+counted std
+added cmplwi
+counted std
+counted std
+counted std
+counted std
+trying to delete std: deleted
+added std
+trying to delete std: deleted
+added std
+counted stxvd2x
+added mr
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+counted mr
+counted add
+counted mr
+counted std
+added stfd
+counted std
+counted std
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+counted stfd
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted bgt
+counted addis
+counted clrldi
+counted ld
+added rldicr
+counted lwax
+counted add
+counted mtctr
+added bctr
+counted extsw
+counted li
+counted li
+counted mr
+added stw
+trying to delete bl: deleted
+counted nop
+counted std
+counted addi
+counted li
+counted extsw
+trying to delete std: deleted
+added bl
+counted nop
+added cmpwi
+added std
+counted std
+trying to delete blt: deleted
+counted cmplwi
+counted clrldi
+added blt
+added lis
+counted std
+counted std
+counted ori
+trying to delete rldicr: deleted
+added oris
+counted ori
+added mulhdu
+added rotldi
+added rldicl
+added rldic
+added mulli
+counted addis
+counted addi
+counted addi
+counted rldicl
+added cmpldi
+added lvx
+counted addi
+counted clrldi
+counted beq
+added vspltisw
+trying to delete addis: deleted
+added addis
+counted addis
+counted addis
+counted addis
+counted vspltisw
+counted addis
+counted addi
+counted vspltisw
+counted vspltisw
+trying to delete addis: deleted
+added addis
+counted addis
+counted addis
+counted addis
+counted vspltisw
+counted lvx
+counted addi
+counted addi
+counted addi
+counted addi
+counted addis
+counted addis
+added vslw
+trying to delete lvx: deleted
+counted addi
+counted addi
+counted addis
+trying to delete addis: deleted
+added addis
+trying to delete addi: deleted
+added addi
+counted addi
+counted addi
+trying to delete addi: deleted
+added addi
+added lvx
+counted addi
+counted addi
+counted addi
+trying to delete addi: deleted
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+added vadduwm
+counted lvx
+counted lvx
+trying to delete lvx: deleted
+added lvx
+counted vadduwm
+counted subf
+trying to delete lvx: deleted
+added lvx
+trying to delete lvx: deleted
+added lvx
+counted vadduwm
+added addi
+counted lvx
+counted vadduwm
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+trying to delete nop: deleted
+added nop
+counted nop
+counted vadduwm
+trying to delete xxswapd: not found
+counted addi
+trying to delete addi: deleted
+counted vadduwm
+counted cmpldi
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+added addi
+counted bne
+counted b
+counted addi
+counted li
+counted extsw
+trying to delete mr: deleted
+counted bl
+counted nop
+counted addis
+trying to delete ld: deleted
+counted li
+counted std
+added mr
+counted bl
+counted nop
+counted std
+counted li
+trying to delete mr: deleted
+counted std
+counted std
+counted bl
+trying to delete nop: deleted
+added mr
+counted cmpwi
+counted std
+counted blt
+counted cmplwi
+counted clrldi
+counted li
+counted blt
+counted lis
+counted addis
+counted std
+counted ori
+added rldicr
+trying to delete oris: deleted
+counted ori
+counted mulhdu
+counted rotldi
+trying to delete rldicl: deleted
+counted rldic
+counted mulli
+counted addi
+added rldicl
+counted cmpldi
+trying to delete addi: deleted
+added addi
+trying to delete lvx: deleted
+counted clrldi
+counted std
+counted beq
+trying to delete vspltisw: deleted
+counted addis
+counted addi
+counted addis
+counted addis
+counted addis
+trying to delete addis: deleted
+added addis
+trying to delete addi: deleted
+counted subf
+added addi
+added vspltisw
+counted vspltisw
+counted addis
+trying to delete addis: deleted
+added addis
+counted vspltisw
+counted vspltisw
+added lvx
+counted addi
+counted addi
+counted addi
+counted addi
+counted addis
+trying to delete vslw: deleted
+counted addis
+counted addis
+counted addis
+counted lvx
+counted addi
+counted addi
+counted addis
+counted addis
+counted addis
+counted addi
+counted addi
+counted addi
+counted addi
+counted addi
+counted lvx
+counted addi
+counted addi
+counted lvx
+counted addi
+trying to delete lvx: deleted
+added lvx
+counted lvx
+counted vadduwm
+counted lvx
+counted lvx
+trying to delete lvx: deleted
+added lvx
+counted vadduwm
+counted addi
+trying to delete lvx: deleted
+added lvx
+trying to delete lvx: deleted
+added lvx
+counted vadduwm
+counted li
+counted lvx
+counted vadduwm
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+trying to delete li: deleted
+counted vadduwm
+trying to delete xxswapd: deleted
+counted addi
+counted addi
+counted vadduwm
+counted cmpldi
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted xxswapd
+trying to delete vadduwm: deleted
+counted xxswapd
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted addi
+counted bne
+counted b
+counted addi
+trying to delete std: deleted
+added li
+counted extsw
+counted mr
+counted bl
+added nop
+trying to delete mr: deleted
+counted cmpwi
+added std
+counted blt
+trying to delete cmplwi: deleted
+counted clrldi
+trying to delete li: deleted
+counted blt
+counted lis
+counted addis
+counted std
+counted ori
+counted addi
+counted rldicr
+counted lvx
+added oris
+counted ori
+counted mulhdu
+trying to delete rotldi: deleted
+counted rldicl
+counted rldic
+counted mulli
+counted addi
+counted cmpldi
+counted rldicl
+counted addi
+counted clrldi
+counted std
+trying to delete beq: deleted
+counted vspltisw
+counted addis
+counted addis
+counted addi
+counted addi
+counted addis
+counted addis
+counted addis
+counted addi
+counted addi
+counted subf
+trying to delete addi: deleted
+counted addis
+counted addis
+counted addis
+counted vspltisw
+counted lvx
+added addi
+counted vspltisw
+trying to delete vspltisw: deleted
+counted lvx
+counted addi
+counted addis
+counted addis
+added vslw
+added vspltisw
+counted lvx
+counted addi
+counted addi
+counted addi
+counted addis
+counted addis
+counted addis
+counted lvx
+counted addi
+trying to delete addi: deleted
+counted addis
+counted addis
+counted addis
+added addi
+counted addi
+counted addi
+counted lvx
+counted addi
+counted addi
+counted lvx
+counted addi
+counted lvx
+counted lvx
+trying to delete lvx: deleted
+added lvx
+counted lvx
+added vadduwm
+added li
+counted lvx
+trying to delete lvx: deleted
+added lvx
+counted lvx
+counted vadduwm
+trying to delete li: deleted
+counted lvx
+trying to delete vadduwm: deleted
+added li
+counted li
+counted li
+trying to delete li: deleted
+added vadduwm
+trying to delete li: not found
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted nop
+counted vadduwm
+counted xxswapd
+counted addi
+trying to delete addi: deleted
+counted vadduwm
+counted cmpldi
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted xxswapd
+counted vadduwm
+counted xxswapd
+trying to delete stxvd2x: deleted
+added stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete addi: not found
+counted bne
+counted b
+added addi
+counted li
+counted extsw
+trying to delete mr: not found
+counted bl
+counted nop
+counted cmpwi
+counted std
+counted blt
+added cmplwi
+counted clrldi
+trying to delete li: deleted
+counted blt
+counted lis
+counted addis
+counted std
+counted std
+trying to delete ori: deleted
+counted rldicr
+counted oris
+added ori
+trying to delete mulhdu: deleted
+added rotldi
+trying to delete rldicl: deleted
+counted rldic
+counted mulli
+counted addi
+trying to delete rldicl: not found
+counted cmpldi
+counted addi
+counted addi
+counted lvx
+counted clrldi
+counted std
+added beq
+trying to delete vspltisw: deleted
+counted addis
+counted addi
+counted addis
+counted addis
+counted addis
+trying to delete addis: deleted
+added addis
+counted addi
+counted subf
+counted addi
+added vspltisw
+counted vspltisw
+counted addis
+counted addis
+counted addis
+trying to delete vspltisw: deleted
+added vspltisw
+trying to delete lvx: deleted
+counted addi
+counted addi
+counted addi
+counted addi
+counted addis
+counted vslw
+counted addis
+counted addis
+counted addis
+trying to delete lvx: not found
+counted addi
+counted addi
+counted addis
+counted addis
+counted addis
+counted addi
+counted addi
+added ld
+counted addi
+counted addi
+counted addi
+added lvx
+counted addi
+trying to delete addi: deleted
+counted lvx
+added addi
+counted lvx
+counted lvx
+counted vadduwm
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+trying to delete vadduwm: deleted
+counted addi
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+trying to delete vadduwm: not found
+added li
+counted lvx
+counted lvx
+added vadduwm
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+trying to delete li: deleted
+added li
+counted li
+counted li
+trying to delete li: deleted
+added li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted nop
+counted vadduwm
+trying to delete xxswapd: deleted
+counted addi
+counted addi
+counted vadduwm
+counted cmpldi
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted addi
+counted bne
+counted b
+counted addi
+counted li
+counted extsw
+trying to delete std: deleted
+counted bl
+counted nop
+counted cmpwi
+added std
+counted std
+counted blt
+counted ld
+counted li
+counted cmplwi
+counted clrldi
+counted blt
+counted lis
+counted ori
+counted rldicr
+counted oris
+counted ori
+added mulhdu
+counted rotldi
+added rldicl
+counted rldic
+counted mulli
+counted addis
+counted addi
+trying to delete addi: deleted
+counted rldicl
+counted lvx
+counted cmpldi
+trying to delete addi: not found
+counted clrldi
+counted beq
+counted vspltisw
+counted addis
+counted addis
+trying to delete addis: deleted
+added addis
+counted addis
+counted vspltisw
+counted addis
+added addi
+counted vspltisw
+counted vspltisw
+trying to delete addis: deleted
+added addis
+counted addis
+counted addis
+counted addi
+counted vspltisw
+counted lvx
+counted addi
+counted addi
+counted addi
+counted addi
+counted addis
+counted addi
+counted vslw
+counted addis
+counted addis
+trying to delete lvx: deleted
+counted addi
+trying to delete addi: deleted
+counted addis
+counted addis
+counted addis
+trying to delete addi: not found
+added addi
+counted addi
+counted addi
+counted addi
+added lvx
+counted addi
+counted addi
+trying to delete addi: deleted
+added addi
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+counted vadduwm
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+counted vadduwm
+counted subf
+counted lvx
+counted lvx
+counted lvx
+trying to delete lvx: deleted
+counted vadduwm
+trying to delete li: deleted
+added lvx
+counted vadduwm
+added li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted nop
+counted nop
+trying to delete nop: deleted
+counted vadduwm
+counted xxswapd
+counted addi
+counted addi
+counted vadduwm
+counted cmpldi
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted xxswapd
+trying to delete vadduwm: deleted
+counted xxswapd
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted addi
+counted bne
+counted b
+counted li
+trying to delete cmpldi: deleted
+counted li
+counted addi
+counted std
+trying to delete std: deleted
+added std
+trying to delete std: deleted
+added std
+counted std
+counted stw
+counted stw
+counted stxsdx
+trying to delete bne: deleted
+counted addi
+counted li
+counted extsw
+trying to delete bl: deleted
+added nop
+added mr
+counted cmpwi
+counted std
+counted blt
+trying to delete cmplwi: deleted
+counted clrldi
+counted li
+counted blt
+counted lis
+counted addis
+counted std
+counted std
+counted ori
+counted rldicr
+counted oris
+counted ori
+trying to delete mulhdu: deleted
+counted rotldi
+counted rldicl
+counted rldic
+counted mulli
+counted addi
+trying to delete rldicl: deleted
+added cmpldi
+counted addi
+counted addi
+counted lvx
+counted clrldi
+trying to delete std: deleted
+counted beq
+counted vspltisw
+counted addis
+counted addi
+counted addis
+counted addis
+counted addis
+counted addis
+counted addis
+counted addi
+counted subf
+counted addi
+counted vspltisw
+trying to delete vspltisw: deleted
+counted addis
+counted addis
+counted addis
+trying to delete vspltisw: not found
+added vspltisw
+counted lvx
+counted addi
+counted addi
+counted addi
+trying to delete addi: deleted
+counted addis
+counted vslw
+counted addis
+counted addis
+counted addis
+counted lvx
+added addi
+counted addi
+counted addis
+counted addis
+counted addis
+trying to delete addi: deleted
+added addi
+counted addi
+counted addi
+counted addi
+counted lvx
+counted addi
+counted addi
+trying to delete lvx: deleted
+counted addi
+added lvx
+counted lvx
+counted lvx
+added vadduwm
+trying to delete lvx: deleted
+added lvx
+counted lvx
+counted lvx
+trying to delete vadduwm: deleted
+counted addi
+counted lvx
+counted lvx
+counted lvx
+counted lvx
+added vadduwm
+counted li
+counted lvx
+counted vadduwm
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted li
+trying to delete li: deleted
+added li
+counted li
+counted li
+counted li
+counted li
+counted li
+counted vadduwm
+counted xxswapd
+counted addi
+counted addi
+counted vadduwm
+counted cmpldi
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+trying to delete xxswapd: not found
+counted vadduwm
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+added xxswapd
+counted vadduwm
+counted xxswapd
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted stxvd2x
+counted addi
+added bne
+counted b
+counted li
+counted ld
+counted ld
+trying to delete ld: deleted
+added ld
+trying to delete ld: deleted
+added ld
+counted ld
+counted ld
+counted ld
+counted cmpldi
+counted subf
+counted beq
+counted vspltisw
+counted vspltisw
+counted addis
+counted addis
+counted rldicr
+counted li
+counted li
+counted li
+trying to delete vspltisw: deleted
+added vspltisw
+counted addi
+counted addi
+counted vspltisw
+counted lvx
+counted lvx
+counted addis
+trying to delete addis: deleted
+counted xxswapd
+counted vadduwm
+counted addi
+trying to delete addi: deleted
+counted vadduwm
+counted lvx
+counted lvx
+counted li
+counted li
+counted vadduwm
+counted stxvd2x
+counted add
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete vadduwm: deleted
+counted xxswapd
+added vadduwm
+counted xxswapd
+counted vadduwm
+counted vadduwm
+counted stxvd2x
+counted li
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+trying to delete vadduwm: deleted
+counted xxswapd
+added vadduwm
+counted stxvd2x
+counted li
+counted vadduwm
+counted stxvd2x
+counted li
+counted xxswapd
+counted xxswapd
+trying to delete stxvd2x: deleted
+added stxvd2x
+trying to delete li: deleted
+counted xxswapd
+counted xxswapd
+counted stxvd2x
+trying to delete stxvd2x: deleted
+added li
+added stxvd2x
+added stxvd2x
+added li
+added stxvd2x
+added stxvd2x
+counted cmpldi
+trying to delete beq: deleted
+counted rldicr
+counted subf
+counted add
+counted mtctr
+added addi
+trying to delete nop: deleted
+added stwu
+added addi
+counted bdnz
+added li
+added li
+trying to delete bl: not found
+added nop
+counted ld
+counted mr
+trying to delete li: not found
+counted stw
+trying to delete mr: deleted
+added bl
+added nop
+added mr
+trying to delete li: not found
+added li
+added std
+added bl
+added nop
+added mr
+trying to delete li: not found
+added mr
+counted stw
+added bl
+added nop
+added mr
+added li
+added li
+trying to delete std: not found
+added std
+added bl
+added nop
+trying to delete mr: not found
+added li
+trying to delete mr: not found
+counted stw
+added bl
+added nop
+added std
+added li
+trying to delete li: not found
+added bl
+added nop
+counted extsw
+added mr
+added li
+added mr
+counted stw
+added bl
+added nop
+trying to delete cmpwi: deleted
+added std
+trying to delete std: not found
+added std
+counted blt
+counted extsw
+added mr
+counted rldicr
+added mr
+added mr
+added bl
+added nop
+trying to delete mr: not found
+added mr
+added mr
+added bl
+added nop
+added cmpwi
+added cmpwi
+added li
+trying to delete std: not found
+added std
+counted blt
+counted ld
+trying to delete rldicr: deleted
+added mr
+added mr
+added bl
+added nop
+added beq
+added addis
+added addi
+added addi
+counted ld
+counted cmpldi
+counted lwz
+added cmplwi
+counted clrldi
+trying to delete beq: not found
+counted bge
+added li
+added li
+counted cmpldi
+counted bne
+counted b
+counted ld
+counted b
+counted bge
+trying to delete li: not found
+added li
+counted cmpldi
+counted bne
+counted b
+added li
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+counted ld
+trying to delete ld: deleted
+added ld
+trying to delete cmpldi: deleted
+counted subf
+added beq
+counted vspltisw
+counted vspltisw
+added addis
+trying to delete addis: not found
+added rldicr
+added li
+added li
+trying to delete li: not found
+counted vspltisw
+trying to delete vspltisw: deleted
+added addi
+added addi
+added vspltisw
+counted lvx
+counted lvx
+added addis
+added addis
+counted xxswapd
+counted vadduwm
+added addi
+added addi
+counted vadduwm
+counted lvx
+counted lvx
+added li
+trying to delete li: not found
+counted vadduwm
+added stxvd2x
+counted add
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted xxswapd
+counted vadduwm
+counted vadduwm
+added stxvd2x
+trying to delete li: not found
+counted vadduwm
+counted xxswapd
+counted vadduwm
+trying to delete xxswapd: deleted
+counted vadduwm
+added xxswapd
+counted vadduwm
+added xxswapd
+counted vadduwm
+trying to delete stxvd2x: not found
+added li
+counted vadduwm
+added stxvd2x
+added li
+added xxswapd
+added xxswapd
+added stxvd2x
+trying to delete stxvd2x: not found
+added li
+added xxswapd
+added xxswapd
+added stxvd2x
+added stxvd2x
+trying to delete li: not found
+added stxvd2x
+added stxvd2x
+added li
+trying to delete stxvd2x: not found
+added stxvd2x
+added cmpldi
+added beq
+added rldicr
+counted subf
+counted add
+added mtctr
+added addi
+added stwu
+added addi
+counted bdnz
+added li
+added mr
+added bl
+added nop
+added cmpwi
+added mr
+trying to delete blt: deleted
+counted rldic
+added mr
+added mr
+added bl
+added nop
+added cmpwi
+added cmpwi
+trying to delete li: not found
+added std
+added blt
+added clrldi
+added addi
+added cmpldi
+added addi
+added clrlwi
+counted bge
+added li
+trying to delete li: not found
+added cmplwi
+counted bne
+counted b
+counted subf
+added addi
+trying to delete li: not found
+added li
+added li
+added li
+added li
+added nop
+trying to delete nop: not found
+counted extsw
+added lfdu
+added rldicr
+counted lxsdx
+added addi
+counted lxsdx
+counted lxsdx
+trying to delete lxsdx: deleted
+added xscmpudp
+added isellt
+counted extsw
+added rldicr
+added lxsdx
+added xscmpudp
+added isellt
+added addi
+counted extsw
+trying to delete rldicr: not

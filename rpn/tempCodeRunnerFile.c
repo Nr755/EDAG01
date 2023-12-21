@@ -1,0 +1,2 @@
+while ((ch = getchar()) != '\n') {
+      }
